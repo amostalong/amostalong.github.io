@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amostalong Blog</title>
+    <description>一个不合格的2B程序猿.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 07 Mar 2017 22:35:58 +0800</pubDate>
+    <lastBuildDate>Tue, 07 Mar 2017 22:35:58 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>拖拖拉拉才有个blog</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Yeah It’s on. ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;吐槽&quot;&gt;吐槽&lt;/h2&gt;
+
+&lt;p&gt;作为一个极其不称职的程序员的日子已经有6年了。&lt;/p&gt;
+
+&lt;p&gt;当别人都能拿出积累出来的果实的时候，我发现我基本算白干了。于是乎，有了这个博客。&lt;/p&gt;
+
+&lt;p&gt;感谢Github，感谢各种大神，让我这种不称职的码农也能建起自己的看起来像模像样的blog。&lt;/p&gt;
+
+&lt;p&gt;干了这么多年，之后的日子总要学会记录下点滴，要不回首的时候，只记得写过 “Hello world”了。&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Mar 2017 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/03/07/hello-2015/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/07/hello-2015/</guid>
+        
+        <category>生活</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

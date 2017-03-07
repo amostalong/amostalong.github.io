@@ -1,0 +1,26 @@
+---
+layout:     post
+title:      "拖拖拉拉才有个blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2017-03-7 12:00:00
+author:     "amostalong"
+header-img: "img/bg_desk.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 吐槽
+
+作为一个极其不称职的程序员的日子已经有6年了。
+
+当别人都能拿出积累出来的果实的时候，我发现我基本算白干了。于是乎，有了这个博客。
+
+感谢Github，感谢各种大神，让我这种不称职的码农也能建起自己的看起来像模像样的blog。
+
+干了这么多年，之后的日子总要学会记录下点滴，要不回首的时候，只记得写过 "Hello world"了。
+
+
+
